@@ -6,9 +6,12 @@ AI-powered tool to extract Table of Contents from book screenshots using Gemini 
 
 ## 📘 About the Project
 
-This project was developed during my internship at **FERNUS**, an educational technology company.
+This project was developed during my internship at FERNUS, an educational technology company.
 
-FERNUS Studio lacked a tool for extracting **Tables of Contents (ToC)** from book screenshots. This project automates that process using AI, replacing the manual and time-consuming methods.
+FERNUS Studio lacked a tool for extracting Tables of Contents (ToC) from book screenshots.  
+This project automates that process using AI, replacing the manual and time-consuming methods.
+
+🛠 It was specifically built for internal use at FERNUS to support the content preparation workflow and reduce manual workload during book production.
 
 ---
 
