@@ -32,7 +32,8 @@ It was specifically built for internal use at FERNUS to support the content prep
 - Python
 - Gemini API
 - OpenCV – image preprocessing
-- pandas / openpyxl – data handling and Excel export
+- pandas - data handling 
+- openpyxl –  excel export
 - tkinter – desktop GUI
 
 ---
