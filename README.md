@@ -29,12 +29,12 @@ It was specifically built for internal use at FERNUS to support the content prep
 
 ## Tech Stack
 
-- Python
-- Gemini API
-- OpenCV – image preprocessing
-- pandas - data handling 
-- openpyxl –  excel export
-- tkinter – desktop GUI
+- [Python](https://www.python.org/) – main programming language  
+- [Gemini API](https://ai.google.dev/) – AI-powered text extraction  
+- [OpenCV](https://opencv.org/) – image preprocessing for better OCR results  
+- [pandas](https://pandas.pydata.org/) – data manipulation and handling  
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/) – Excel export and styling  
+- [tkinter](https://docs.python.org/3/library/tkinter.html) – desktop GUI interface
 
 ---
 
